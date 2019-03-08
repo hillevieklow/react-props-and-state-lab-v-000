@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 
 class Filters extends React.Component {
   render() {
@@ -27,4 +27,4 @@ class Filters extends React.Component {
   }
 }
 
-export default Filters;
+export default Filters
