@@ -1,6 +1,6 @@
-import React, { Component } from "react";
-import Filters from "./Filters";
-import PetBrowser from "./PetBrowser";
+import React, { Component } from "react"
+import Filters from "./Filters"
+import PetBrowser from "./PetBrowser"
 
 export default class App extends Component {
   state = {
